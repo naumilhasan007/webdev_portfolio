@@ -2,6 +2,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 200PX;
 }
 
 body {
@@ -48,3 +49,20 @@ nav a {
     padding: 15px 35px;
 
 }
+
+.header {
+    background-color: #FFF8F3;
+    ;
+}
+
+.BANNER {
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+
+.BANNER .profile_pic {
+    width: 500px;
+}
+
+.banner-content
